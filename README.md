@@ -1,4 +1,4 @@
-![Banner](https://github.com/ldandoy/img/ban_github.png.png)  
+![Banner](https://github.com/ldandoy/ldandoy/blob/main/img/ban_github.png)  
 
 <h1 align="center">Hi 👋, I'm Loïc DANDOY</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
