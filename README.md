@@ -81,6 +81,13 @@
       <a href="https://github.com/Hashiix">Hashiix</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/FatenElhariry">  
+        <img src="https://avatars2.githubusercontent.com/u/28176695" width="100px;" alt="FatenElhariry"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/FatenElhariry">Faten Elhariry</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/Valharault">  
         <img src="https://avatars2.githubusercontent.com/u/23528017" width="100px;" alt="Valharault"/>  
       </a>  
@@ -100,13 +107,6 @@
       </a>  
       <br />  
       <a href="https://github.com/P-edacquet">P-edacquet</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/FatenElhariry">  
-        <img src="https://avatars2.githubusercontent.com/u/28176695" width="100px;" alt="FatenElhariry"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/FatenElhariry">Faten Elhariry</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/BawBaw31">  
