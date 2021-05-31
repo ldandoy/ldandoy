@@ -65,20 +65,20 @@
       <a href="https://github.com/Migeth">Seth Migan</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/theoesnault">  
-        <img src="https://avatars2.githubusercontent.com/u/45945968" width="100px;" alt="theoesnault"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/theoesnault">Théo Esnault</a>  
-    </td>  
-  </tr>
-  <tr>
-    <td align="center">  
       <a href="https://github.com/Hashiix">  
         <img src="https://avatars2.githubusercontent.com/u/57719916" width="100px;" alt="Hashiix"/>  
       </a>  
       <br />  
       <a href="https://github.com/Hashiix">Hashiix</a>  
+    </td>  
+  </tr>
+  <tr>
+    <td align="center">  
+      <a href="https://github.com/theoesnault">  
+        <img src="https://avatars2.githubusercontent.com/u/45945968" width="100px;" alt="theoesnault"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/theoesnault">Théo Esnault</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/FatenElhariry">  
