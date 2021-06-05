@@ -81,6 +81,13 @@
       <a href="https://github.com/theoesnault">Théo Esnault</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/Verbain">  
+        <img src="https://avatars2.githubusercontent.com/u/26086590" width="100px;" alt="Verbain"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/Verbain">Cotovio Sebastien</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/Valharault">  
         <img src="https://avatars2.githubusercontent.com/u/23528017" width="100px;" alt="Valharault"/>  
       </a>  
@@ -114,13 +121,6 @@
       </a>  
       <br />  
       <a href="https://github.com/BawBaw31">Arthur ISNARD</a>  
-    </td>  
-    <td align="center">  
-      <a href="https://github.com/yacine-21">  
-        <img src="https://avatars2.githubusercontent.com/u/61298654" width="100px;" alt="yacine-21"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/yacine-21">Yacine Lyoubi</a>  
     </td>  
   </tr>
 </table>
