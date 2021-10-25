@@ -1,4 +1,6 @@
-![Banner](https://github.com/ldandoy/ldandoy/blob/main/img/ban_github.png)  
+![Banner](https://github.com/ldandoy/ldandoy/blob/main/img/ban_github.png)
+
+![Banner](https://nextjs.org/conf/tickets/oct21/ldandoy?s=2)
 
 <h1 align="center">Hi 👋, I'm Loïc DANDOY</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
