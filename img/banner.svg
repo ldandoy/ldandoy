@@ -1,0 +1,56 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="leftGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1e3f"/>
+      <stop offset="1" stop-color="#1e4fa3"/>
+    </linearGradient>
+    <linearGradient id="rightGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f6e5c"/>
+      <stop offset="1" stop-color="#18b487"/>
+    </linearGradient>
+    <clipPath id="leftClip">
+      <polygon points="0,0 660,0 540,300 0,300"/>
+    </clipPath>
+    <clipPath id="rightClip">
+      <polygon points="660,0 1200,0 1200,300 540,300"/>
+    </clipPath>
+  </defs>
+
+  <!-- Left panel: Over Consulting -->
+  <g clip-path="url(#leftClip)">
+    <rect x="0" y="0" width="660" height="300" fill="url(#leftGrad)"/>
+    <!-- subtle code brackets watermark -->
+    <text x="70" y="250" font-size="240" font-weight="700" fill="#ffffff" opacity="0.05">&lt;/&gt;</text>
+    <!-- browser window icon -->
+    <g transform="translate(70,70)" stroke="#8fb4ff" stroke-width="3" fill="none">
+      <rect x="0" y="0" width="90" height="66" rx="6"/>
+      <line x1="0" y1="18" x2="90" y2="18"/>
+      <circle cx="10" cy="9" r="2.5" fill="#8fb4ff" stroke="none"/>
+      <circle cx="20" cy="9" r="2.5" fill="#8fb4ff" stroke="none"/>
+      <circle cx="30" cy="9" r="2.5" fill="#8fb4ff" stroke="none"/>
+      <polyline points="24,34 16,44 24,54"/>
+      <polyline points="66,34 74,44 66,54"/>
+      <line x1="52" y1="30" x2="40" y2="58"/>
+    </g>
+    <text x="70" y="190" font-size="40" font-weight="800" fill="#ffffff" letter-spacing="1">OVER CONSULTING</text>
+    <text x="72" y="228" font-size="21" font-weight="400" fill="#cfe0ff">Création de sites web</text>
+  </g>
+
+  <!-- Right panel: Les Compagnons du Dev -->
+  <g clip-path="url(#rightClip)">
+    <rect x="540" y="0" width="660" height="300" fill="url(#rightGrad)"/>
+    <text x="900" y="250" font-size="240" font-weight="700" fill="#ffffff" opacity="0.06" text-anchor="middle">{ }</text>
+    <!-- graduation cap icon -->
+    <g transform="translate(1040,74)" stroke="#c9fff0" stroke-width="3" fill="none" stroke-linejoin="round">
+      <polygon points="45,0 90,20 45,40 0,20"/>
+      <path d="M18,29 V50 C18,58 72,58 72,50 V29"/>
+      <line x1="90" y1="20" x2="90" y2="46"/>
+      <circle cx="90" cy="49" r="3.5" fill="#c9fff0" stroke="none"/>
+    </g>
+    <text x="1130" y="190" font-size="38" font-weight="800" fill="#ffffff" letter-spacing="1" text-anchor="end">LES COMPAGNONS DU DEV</text>
+    <text x="1128" y="228" font-size="21" font-weight="400" fill="#d6fff4" text-anchor="end">Formation</text>
+  </g>
+
+  <!-- Diagonal divider -->
+  <polygon points="660,0 668,0 548,300 540,300" fill="#ffffff" opacity="0.85"/>
+</svg>
